@@ -1,0 +1,23 @@
+{
+  "name": "array-chunk-es6",
+  "version": "1.0.0",
+  "description": "Break array into chunks. Uses ES6 syntax to be tiny.",
+  "main": "src/chunk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryphonmyers/array-chunk-es6.git"
+  },
+  "keywords": [
+    "array",
+    "es6"
+  ],
+  "author": "Gryphon Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryphonmyers/array-chunk-es6/issues"
+  },
+  "homepage": "https://github.com/gryphonmyers/array-chunk-es6#readme"
+}
